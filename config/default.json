@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "google": {
+      "client_id": "147454394832-sp59ejg78281v7d1al0q4lrjdk7pieuj.apps.googleusercontent.com",
+      "client_secret": "rTLtTJ3rXHYY5dCLYV65B-e4",
+      "callback_url": "http://localhost:3000/auth/google/callback"
+    }
+  },
+  "session": {
+    "secret": "secret"
+  },
+  "news_api": {
+    "url": "http://newsapi.org/v2",
+    "api_key": "7b443e2d9cc041398f3e5acd8652aa1e"
+  }
+}
